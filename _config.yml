@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: America/Denver
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Andy Shaffer # the main title
 
-tagline: Systems Engineering and Architecture # it will display as the sub-title
+tagline: Systems Engineering # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   This is a test message
